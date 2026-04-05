@@ -13,4 +13,6 @@ const myTablet = gadgetFactory.createGadget("Tablet", {
   name: "Bab's iPad"
 });
 
-// add console.log here
+// Add console logs
+console.log(myLaptop);
+console.log(myTablet);
